@@ -1,0 +1,52 @@
+.header {
+  background-color: mediumblue;
+}
+body {
+  background-color: rgb(0, 39, 146);
+  min-height: 1100px;
+}
+.header h1 {
+  text-align: center;
+  color: floralwhite;
+  border: 5px none;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: xx-large;
+}
+.main {
+  color: floralwhite;
+  padding-top: 2rem;
+  padding-left: 22rem;
+  padding-bottom: 10rem;
+}
+.main table {
+  padding-top: 3rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.main img {
+  height: 280px;
+  width: 280px;
+  float: left;
+  padding-top: 3rem;
+}
+.main p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: large;
+  font-weight: 300;
+  padding-left: 23%;
+  text-decoration: underline 1px;
+}
+.footer {
+  padding-top: 2rem;
+}
+.footer h2 {
+  text-align: center;
+  color: floralwhite;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.footer table {
+  text-align: center;
+  table-layout: auto;
+  color: floralwhite;
+  border: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
