@@ -1,0 +1,16 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: #00cba9;
+}
+.video {
+  text-align: center;
+  padding-top: 2rem;
+}
+.pdf {
+  padding-top: 3rem;
+  text-align: center;
+}
+.youtube {
+  padding-top: 3rem;
+  text-align: center;
+}
